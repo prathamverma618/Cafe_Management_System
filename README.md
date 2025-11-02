@@ -1,0 +1,1 @@
+The Cafe Management System is a Core Java project that helps manage cafe operations efficiently. It allows the admin to add, update, delete, and view food items, manage customer orders, and generate bills automatically. The system uses JDBC to connect with a MySQL database.
